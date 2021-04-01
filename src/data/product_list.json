@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Product 1", 
+        "description": "Tell a better story in your short product description paragraph by including", 
+        "image_url": "/oneshop_imgs/photo-1523275335684-37898b6baf30.jpeg", 
+        "price": "100$"
+    },
+    {
+        "name": "Product 2", 
+        "description": "Tell a better story in your short product description paragraph by including.", 
+        "image_url": "/oneshop_imgs/huf-converse-product-red-skidgrip-1.jpg", 
+        "price": "150$"
+    },
+    {
+        "name": "Product 3", 
+        "description": "Tell a better story in your short product description paragraph by including", 
+        "image_url": "/oneshop_imgs/photo-1505740420928-5e560c06d30e.jpeg", 
+        "price": "270$"
+    },
+    {
+        "name": "Product 4", 
+        "description": "Tell a better story in your short product description paragraph by including ", 
+        "image_url": "/oneshop_imgs/photo-1526947425960-945c6e72858f.jpeg", 
+        "price": "100$"
+    },
+    {
+        "name": "Product 5", 
+        "description": "Tell a better story in your short product description paragraph by including ", 
+        "image_url": "/oneshop_imgs/photo-1542291026-7eec264c27ff.jpeg", 
+        "price": "100$"
+    },
+    {
+        "name": "Product 6", 
+        "description": "Tell a better story in your short product description paragraph by including ", 
+        "image_url": "/oneshop_imgs/photo-1542291026-7eec264c27ff.jpeg", 
+        "price": "70$"
+    }   
+  ]
