@@ -11,7 +11,7 @@ class ProductList extends React.Component {
 
   render() {
     return (
-      <div className="card" style={{width: "25rem", marginLeft: "20px", marginTop: "5px"}}>
+      <div className="card" style={{width: "33rem", marginLeft: "20px", marginTop: "5px"}}>
           <img className="card-img-top" src={this.props.product.image_url} alt="Card image cap"></img>
           <div className="card-body">
               <h5 className="card-title">{this.props.product.name}</h5>
